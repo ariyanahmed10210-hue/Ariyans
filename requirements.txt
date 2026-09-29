@@ -1,7 +1,4 @@
-httpx
-google-play-scraper
-pycryptodome
-protobuf-decoder
-protobuf
-requests
-aiohttp
+Flask
+Flask-Session
+werkzeug
+psutil
